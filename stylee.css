@@ -1,0 +1,40 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    padding: 30px;
+    background-color:coral;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1
+{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+h2
+{
+    display: flex;
+    justify-content: center;
+    color: darkred;   
+}
+
+section button
+{
+    background-color: rgb(252, 252, 156);
+    padding: 10px;
+    display: flex;
+    width: 190px;
+    height: 40px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#btn1
+{
+    color: brown;
+    font-weight: 600;
+}
